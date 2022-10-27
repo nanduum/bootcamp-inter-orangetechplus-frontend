@@ -1,0 +1,32 @@
+Dicas/Links Úteis:
+
+https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web
+
+Ctrl + ; - comentario
+
+>Sempre utilizar o <script> no fim da página, carregamento mais rápido
+
+>Normalize deixa o conteúdo igual para todos os navegadores, importante utilizar
+
+>O comando mkdir assets no terminal cria uma pasta para colocar os arquivos da página, facilitar a organização
+mkdir assets/css - cria pasta para o css
+touch .assets/css/global.css - cria um arquivo css
+<link rel="stylesheet" href="/assets/css/global.css"> - importa o css, sempre dentro da tag <head>
+
+mkdir assets/js - cria pasta para o javascript
+touch .assets/js/main.js - cria um arquivo para o javascript
+<script src="/assets/js/pokemon-model.js"></script> - importa o javascript, sempre dentro da tag <body>
+
+"O que é uma CDN?
+Uma CDN é uma rede de servidores que distribui conteúdo de um servidor de "origem" no mundo todo, 
+armazenando o conteúdo em cache próximo ao local em que cada usuário final está acessando a Internet por meio de um dispositivo habilitado para Web."
+
+CDN são conteúdos que posso importar para meu projeto apenas colocando o link de referencia.
+
+nesse caso importei a fonte roboto, coloquei na tag <head> do meu arquivo html.
+
+>Sempre utilizar a tecnica "mobile first" fazer o site voltado ao mobile para evitar reescrever linhas de codigo no css.
+
+> tag <ol></ol> lista ordenada dentro colocar <li></li> para cada item.
+
+
