@@ -1,0 +1,10 @@
+npm install -g yarn: instala o yarn na maquina
+
+>criar arquivo com react:
+
+npx create-react-app nomedoprojeto
+
+cd dio   -  seleciona o diretorio
+code .   -  faz o visual studio code ficar na raiz dessa pasta
+
+>npm run start - inicia o projeto react 
