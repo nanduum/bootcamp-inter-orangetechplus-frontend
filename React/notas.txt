@@ -8,3 +8,6 @@ cd dio   -  seleciona o diretorio
 code .   -  faz o visual studio code ficar na raiz dessa pasta
 
 >npm run start - inicia o projeto react 
+
+ 
+https://reactrouter.com/ ferramenta de navegação para react | https://styled-components.com biblioteca para utilizar css no js

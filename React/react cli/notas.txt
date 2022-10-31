@@ -1,0 +1,12 @@
+como instalar:
+
+npx create-react-app nomeDoProjeto
+
+cd dio - entra na pasta da dio pelo terminal
+
+code . - inicia o vscode na pasta apontava pelo terminal
+
+yarn start - executa o projeto
+
+
+yarn add react-router-dom - adiciona a navegação ao projeto(site utilizado react router)
