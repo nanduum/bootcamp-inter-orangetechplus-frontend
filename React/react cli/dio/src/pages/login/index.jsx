@@ -1,3 +1,4 @@
+// import { MdEmail, MdLock } from 'react-icons/md';
 
 import Button from './../../components/Button/index';
 import Header from './../../components/Header/index';
@@ -25,8 +26,8 @@ const Login = () => {
                     <TitleLogin>Faça seu cadastro</TitleLogin>
                     <SubtitleLogin>Façaseulogin e make the change._</SubtitleLogin>
                     <form>
-                        <Input placeholder="E-mail" />
-                        <Input placeholder="Senha" type="password" />
+                        <Input placeholder="E-mail"/>  
+                        <Input placeholder="Senha" type="password"/>
                         <Button title="Entrar" variant="secondary" />
                     </form>
                     <Row>

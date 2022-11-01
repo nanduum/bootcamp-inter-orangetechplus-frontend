@@ -71,10 +71,11 @@ export const EsqueciText = styled.p`
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
-    line-height: 25px;
+    line-height: 25px; 
 
     color: #E5E044;
 `
+// line-height 19px
 
 export const CriarText = styled.p`
     font-family: 'Open Sans';
@@ -85,3 +86,4 @@ export const CriarText = styled.p`
 
     color: #E23DD7;
 `
+// line-height 19px
