@@ -1,5 +1,5 @@
 {
-  "name": "dio",
+  "name": "dio_wsl_ubuntu",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
