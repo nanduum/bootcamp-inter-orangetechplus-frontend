@@ -10,3 +10,5 @@ yarn start - executa o projeto
 
 
 yarn add react-router-dom - adiciona a navegação ao projeto(site utilizado react router)
+
+yarn add styled-components - adiciona o styled componentes ao projeto
