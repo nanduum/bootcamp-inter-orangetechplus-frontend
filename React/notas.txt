@@ -11,3 +11,9 @@ code .   -  faz o visual studio code ficar na raiz dessa pasta
 
  
 https://reactrouter.com/ ferramenta de navegação para react | https://styled-components.com biblioteca para utilizar css no js
+
+se utiliza o react rook-forms - para configuração da tela de registro
+
+axios 
+
+json server - "api fake"
