@@ -1,0 +1,25 @@
+*{
+  --bg-color: #1e192c;
+  --nav-bar-color: #151515;
+}
+
+.App{
+  background-color: var(--bg-color);
+  width: 100vw;
+  height: 100vh;
+}
+.nav-bar{
+  background-color: var(--nav-bar-color);
+}
+.btn{
+  background-color: #565656;
+  padding-inline: 1rem;
+  border-radius: 1rem;
+}
+.btn:hover{
+  background-color: #8d8d8d;
+}
+
+.label{
+  position: relative;
+}
